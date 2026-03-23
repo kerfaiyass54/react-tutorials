@@ -44,7 +44,7 @@ Perfect for **frontend developers**, **React beginners**, and **UI designers** l
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/react-tutorials.git
+   git clone https://github.com/kerfaiyass54/react-tutorials.git
    cd react-tutorials
    ```
 
@@ -133,7 +133,7 @@ We welcome contributions from everyone! Here’s how you can help:
 Ready to dive into modern CSS techniques for React? Clone this repository and start experimenting with the examples!
 
 ```bash
-git clone https://github.com/yourusername/react-tutorials.git
+git clone https://github.com/kerfaiyass54/react-tutorials.git
 cd react-tutorials
 npm install
 ```
